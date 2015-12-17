@@ -1,0 +1,13 @@
+PODS:
+  - Kingfisher (1.8.0)
+  - MJExtension (3.0.3)
+
+DEPENDENCIES:
+  - Kingfisher
+  - MJExtension
+
+SPEC CHECKSUMS:
+  Kingfisher: 4d40a6d8a0030b575be66593cae3aea587971a67
+  MJExtension: de557e1c48ef3212590d3203764c8003fae68815
+
+COCOAPODS: 0.38.2
